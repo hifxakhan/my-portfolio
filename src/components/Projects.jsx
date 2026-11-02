@@ -12,7 +12,7 @@ function Projects() {
         {
             title: "CCTV Backup Application",
             description: "Full-stack system that automates scheduled off-site CCTV backups to Google Drive, featuring a React dashboard, Flask API, and OAuth authentication.",
-            tech: ["Python", "Google Drive API", "Automation"],
+            tech: ["React", "Flask", "OAuth", "Socket.IO", "Google Drive API"],
             link: "https://github.com/hifxakhan/cctv-backup-app",
             live: "https://cctv-backup-app.vercel.app/", 
         },
