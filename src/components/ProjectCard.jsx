@@ -32,7 +32,7 @@ function ProjectCard({ title, description, tech, link, live }) {
         <div className="flex gap-4 mt-auto">
           {live && (
             <a href={live} target="_blank" rel="noreferrer" className="text-sm font-medium text-white border-b border-white hover:text-gray-400 hover:border-gray-400 transition-colors pb-0.5">
-              Open Live Site ↗
+              Open Live Site →
             </a>
           )}
           <a href={link} target="_blank" rel="noreferrer" className="text-sm font-medium text-gray-400 hover:text-white transition-colors pb-0.5">
