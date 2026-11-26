@@ -1,16 +1,35 @@
-# React + Vite
+# Hifza Khan - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A fully responsive, custom-coded personal portfolio website designed to showcase my projects, technical skills, and professional experience. Built with a modern, editorial aesthetic and smooth user interactions.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+**[View Live Portfolio](https://hifza-khan-portfolio.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Custom CSS
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+- **Build Tool:** Vite
+- **Deployment:** Vercel
 
-## React Compiler
+## ✨ Key Features
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+- **Dynamic Project Filtering:** Projects can be filtered based on categories (Software, Security, AI).
+- **Smooth Animations:** Scroll reveal animations and hover effects using Framer Motion.
+- **Dark/Light Aesthetic:** Clean, minimalist, and highly readable UI.
+- **Contact Integration:** Direct email and social media links.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📂 Project Structure
+```text
+my-portfolio/
+├── public/              # Static assets (CV, Images)
+├── src/
+│   ├── components/      # Reusable UI components (Navbar, Hero, ProjectCard, Footer)
+│   ├── assets/          # Local images and icons
+│   ├── App.jsx          # Main application component
+│   ├── index.css        # Global styles and Tailwind directives
+│   └── main.jsx         # React entry point
+├── tailwind.config.js   # Tailwind CSS configuration
+├── vite.config.js       # Vite configuration
+└── package.json         # Project dependencies
