@@ -21,6 +21,13 @@ function Projects() {
             description: "A serverless dictionary application for cloud computing terms, deployed on AWS Amplify with real-time search.",
             tech: ["JavaScript", "AWS Amplify", "Serverless"],
             link: "https://github.com/hifxakhan/cloud-dictionary"
+        },
+        {
+            title: "Notes-app",
+            description: "A secure, full-stack notes application featuring JWT authentication, Email OTP verification, and a rich text editor. Includes real-time search, note exporting, and comprehensive Pino logging with a MySQL database.",
+            tech: ["React", "Node.js", "Express", "MySQL", "Tailwind CSS", "JWT"],
+            link: "https://github.com/hifxakhan/cohort-10-mern-19403-hifza",
+            live: "https://hifza-note-app.vercel.app/"
         }
     ];
 
