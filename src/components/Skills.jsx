@@ -3,27 +3,27 @@ function Skills() {
     { 
       category: "Frontend", 
       accent: "#c3a9ff", 
-      skills: ["React.js", "JavaScript", "Tailwind CSS", "HTML/CSS"] 
+      skills: ["React.js", "Vite", "React Router", "JavaScript", "Tailwind CSS", "HTML/CSS"] 
     },
     { 
       category: "Backend", 
       accent: "#91aac4", 
-      skills: ["Python", "Flask", "Node.js", "REST APIs", "WebSockets"] 
+      skills: ["Python", "Flask", "Node.js", "Express.js", "REST APIs", "WebSockets"] 
     },
     { 
       category: "Databases", 
       accent: "#c889a5", 
-      skills: ["PostgreSQL", "MySQL", "MariaDB"] 
+      skills: ["PostgreSQL", "MySQL", "MariaDB", "Clever Cloud"] 
     },
     { 
       category: "Security & AI", 
       accent: "#c3a9ff", 
-      skills: ["OpenAI API", "Penetration Testing", "Wireshark", "Burp Suite", "Nmap"] 
+      skills: ["JWT Authentication", "Bcrypt", "OpenAI API", "Penetration Testing", "Wireshark", "Nmap"] 
     },
     { 
       category: "Tools & Cloud", 
       accent: "#91aac4", 
-      skills: ["Git", "GitHub", "AWS Amplify", "Linux", "Vercel"] 
+      skills: ["Git", "GitHub", "AWS Amplify", "Vercel", "Pino Logger", "Mocha & Chai", "SonarQube", "Linux"] 
     }
   ];
 
