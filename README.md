@@ -2,10 +2,10 @@
 
 A fully responsive, custom-coded personal portfolio website designed to showcase my projects, technical skills, and professional experience. Built with a modern, editorial aesthetic and smooth user interactions.
 
-## 🔗 Live Demo
+## Live Demo
 **[View Live Portfolio](https://hifza-khan-portfolio.vercel.app/)**
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** React.js, JavaScript (ES6+)
 - **Styling:** Tailwind CSS, Custom CSS
 - **Animations:** Framer Motion
@@ -13,14 +13,14 @@ A fully responsive, custom-coded personal portfolio website designed to showcase
 - **Build Tool:** Vite
 - **Deployment:** Vercel
 
-## ✨ Key Features
+## Key Features
 - **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
 - **Dynamic Project Filtering:** Projects can be filtered based on categories (Software, Security, AI).
 - **Smooth Animations:** Scroll reveal animations and hover effects using Framer Motion.
 - **Dark/Light Aesthetic:** Clean, minimalist, and highly readable UI.
 - **Contact Integration:** Direct email and social media links.
 
-## 📂 Project Structure
+## Project Structure
 ```text
 my-portfolio/
 ├── public/              # Static assets (CV, Images)
